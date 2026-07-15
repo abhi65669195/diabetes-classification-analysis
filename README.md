@@ -111,6 +111,9 @@ Alpha values tested:
 - 10
 
 Performance was visualized using an accuracy vs alpha plot.
+#### Accuracy vs Alpha
+
+![Accuracy vs Alpha plot](images/Alpha vs Accuracy.png)
 
 ---
 
@@ -128,6 +131,9 @@ Training times were measured and analyzed.
 ### 4. Correlation Analysis
 
 Generated a correlation heatmap to examine relationships between predictor variables and identify feature dependencies.
+#### Correlation Heatmap
+
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 
 ---
 
