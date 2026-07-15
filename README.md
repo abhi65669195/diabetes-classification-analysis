@@ -113,7 +113,7 @@ Alpha values tested:
 Performance was visualized using an accuracy vs alpha plot.
 #### Accuracy vs Alpha
 
-![Accuracy vs Alpha](images/Alpha vs Accuracy.png)
+![Accuracy vs Alpha](images/alpha_vs_accuracy.png)
 
 ---
 
